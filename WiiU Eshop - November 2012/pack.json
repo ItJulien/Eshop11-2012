@@ -1,0 +1,10 @@
+{
+  "name": "Wii U eShop (November 2012)",
+  "description": "Adds the Wii U eShop Music that was used from November 2012 to sometime in September 2013. A nice, chill tune to browse your deck to.",
+  "author": "ItJulien",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
